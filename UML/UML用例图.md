@@ -12,7 +12,7 @@
 
 [流程分析——活动图、状态机图、顺序图](https://blog.csdn.net/cug_heshun2013/article/details/51244420)
 
-[uml学习](https://blog.csdn.net/Kang_TJU/article/details/55000129?utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~aggregatepage~first_rank_ecpm_v1~rank_v31_ecpm-3-55000129-null-null.pc_agg_new_rank&utm_term=%E7%94%A8%E4%BE%8B%E5%9B%BE%E5%AE%B9%E5%99%A8&spm=1000.2123.3001.4430)
+[uml学习](https://blog.csdn.net/Kang_TJU/article/details/55000129?utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2aggregatepagefirst_rank_ecpm_v1rank_v31_ecpm-3-55000129-null-null.pc_agg_new_rank&utm_term=%E7%94%A8%E4%BE%8B%E5%9B%BE%E5%AE%B9%E5%99%A8&spm=1000.2123.3001.4430)
 
 ## 什么是用例图
 
@@ -330,12 +330,12 @@
 
 ### **2.4 用例分析——参与者** 
 
-![在这里插入图片描述](Imag/364478d503034cb5aa7fbc5ebf64acc5~tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
+![在这里插入图片描述](Imag/364478d503034cb5aa7fbc5ebf64acc5tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
 
 图2-1 全部参与者图示意图
 
 2.4.1 权限管理——参与者
- ![在这里插入图片描](Imag/d84e184a51ec4f8cbcc90e8bc53a0285~tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
+ ![在这里插入图片描](Imag/d84e184a51ec4f8cbcc90e8bc53a0285tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
 
 权限管理员，人事管理员
 
@@ -346,7 +346,7 @@
 
 2.4.2 员工管理——参与者
  员工管理员、普通员工、财务部管理人员、财务管理系统
- ![在这里插入图片描述](Imag/ac391808aae44ea9b453cceb42feb79d~tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
+ ![在这里插入图片描述](Imag/ac391808aae44ea9b453cceb42feb79dtplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
 
 图2-3 员工管理参与者示意图
 
@@ -357,7 +357,7 @@
 
 2.4.3 部门管理——参与者
  部门管理员，部门员工
- ![在这里插入图片描述](Imag/8521a6b716e84dc9bcb926ac4332c060~tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
+ ![在这里插入图片描述](Imag/8521a6b716e84dc9bcb926ac4332c060tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
 
 图2-4 部门管理参与者示意图
 
@@ -366,7 +366,7 @@
 
 2.4.4 职位管理——参与者
  员工，职位管理员，财务部，部门经理
- ![在这里插入图片描述](Imag/900e81abf4264741b171fa1ca12419f1~tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
+ ![在这里插入图片描述](Imag/900e81abf4264741b171fa1ca12419f1tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
 
 图2-5 职位管理参与者示意图
 
@@ -377,7 +377,7 @@
 
 2.4.5 考勤管理——参与者
  员工、考勤管理员、部门经理
- ![在这里插入图片描述](Imag/f517807c3d0745cea8f0db2c7ae7cb66~tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
+ ![在这里插入图片描述](Imag/f517807c3d0745cea8f0db2c7ae7cb66tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
 
 图2-6 考勤管理参与者示意图
 
@@ -387,7 +387,7 @@
 
 2.4.6 人事异动管理——参与者
  员工、人事管理员、部门经理
- ![在这里插入图片描述](Imag/637406f78bb146cb919663fc947306ef~tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
+ ![在这里插入图片描述](Imag/637406f78bb146cb919663fc947306eftplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
 
 图2-7 人事异动管理参与者示意图
 
@@ -399,7 +399,7 @@
 
 2.5.1 权限管理
 
-![在这里插入图片描述](Imag/20b89b9ef9d54bebaa9ae52298601158~tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
+![在这里插入图片描述](Imag/20b89b9ef9d54bebaa9ae52298601158tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
 
 ```
                      图2-8 权限管理用例图
@@ -407,35 +407,35 @@
 
 2.5.2 员工管理
 
-![在这里插入图片描述](Imag/5703ca07396445bc9e78f7e29eccec45~tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
+![在这里插入图片描述](Imag/5703ca07396445bc9e78f7e29eccec45tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
 
 ```
                   图2-9 员工管理用例图
 ```
 
 2.5.3 部门管理
- ![在这里插入图片描述](Imag/5e877fd692ce4da6b58284d971048185~tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
+ ![在这里插入图片描述](Imag/5e877fd692ce4da6b58284d971048185tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
 
 ```
                 图2-10 部门管理用例图
 ```
 
 2.5.4 职位管理
- ![在这里插入图片描述](Imag/0391824ebffe4a6ca4d351f5f11aee05~tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
+ ![在这里插入图片描述](Imag/0391824ebffe4a6ca4d351f5f11aee05tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
 
 ```
                    图 2-11 职位管理用例图
 ```
 
 2.5.5 考勤管理
- ![在这里插入图片描述](Imag/cb7cf3ec4e044a30aaf1b5e5ee6f24b5~tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
+ ![在这里插入图片描述](Imag/cb7cf3ec4e044a30aaf1b5e5ee6f24b5tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
 
 ```
                        图2-12 考勤管理用例图
 ```
 
 2.5.6 人事异动管理
- ![在这里插入图片描述](Imag/cff58629fde14baaa239a3517005181d~tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
+ ![在这里插入图片描述](Imag/cff58629fde14baaa239a3517005181dtplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
 
 ```
                   图2-13  人事异动管理用例图
@@ -444,56 +444,56 @@
 第3章 系统设计
  3.1 实现类图
  3.1.1 权限管理实现类图
- ![在这里插入图片描述](Imag/568fb5aabd86437ab6e7cf9abbc551b4~tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
+ ![在这里插入图片描述](Imag/568fb5aabd86437ab6e7cf9abbc551b4tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
 
 ```
                   图3-1 权限管理实现类图
 ```
 
 3.1.2 员工管理实现类图
- ![在这里插入图片描述](Imag/fac2cf034a284ab7ac0d876870cbd37c~tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
+ ![在这里插入图片描述](Imag/fac2cf034a284ab7ac0d876870cbd37ctplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
 
 ```
                       图3-2 员工管理实现类图
 ```
 
 3.1.3 部门管理实现类图
- ![在这里插入图片描述](Imag/8e689673e4014b46a90997a389e9e567~tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
+ ![在这里插入图片描述](Imag/8e689673e4014b46a90997a389e9e567tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
 
 ```
                      图3-3部门管理实现类图
 ```
 
 3.1.4 职位管理实现类图
- ![在这里插入图片描述](Imag/e0e58572eba9401fbd72bba3f7881bec~tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
+ ![在这里插入图片描述](Imag/e0e58572eba9401fbd72bba3f7881bectplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
 
 ```
                   图3-4职位管理实现类图
 ```
 
 3.1.5 考勤管理实现类图
- ![在这里插入图片描述](Imag/ddfff750cffe4f7caa7662178880f3d1~tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
+ ![在这里插入图片描述](Imag/ddfff750cffe4f7caa7662178880f3d1tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
 
 ```
       图3-5 人事管理系统考勤管理模块类图
 ```
 
 3.1.6 人事异动管理实现类图
- ![在这里插入图片描述](Imag/86725e3b3cd144a784ba3d728eb0837f~tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
+ ![在这里插入图片描述](Imag/86725e3b3cd144a784ba3d728eb0837ftplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
 
 ```
      图3-6 人事管理系统人事异动管理模块类图
 ```
 
 3.4.3 部门管理活动图
- ![在这里插入图片描述](Imag/84b823b518134737afdc7346bcd1fd67~tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
+ ![在这里插入图片描述](Imag/84b823b518134737afdc7346bcd1fd67tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
 
 ```
                图3-50 部门管理活动图
 ```
 
 3.4.4 职位管理活动图
- ![在这里插入图片描述](Imag/9798f7c1d00a43bcaac37723bcdc0024~tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
+ ![在这里插入图片描述](Imag/9798f7c1d00a43bcaac37723bcdc0024tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
 
 ```
             图3-51 职位管理活动图
@@ -502,16 +502,16 @@
 第4章 部署实施
  4.1 组件图
  4.1.1 系统功能模块组件图
- ![在这里插入图片描述](Imag/31246789228a497ca049b90bdd191781~tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
+ ![在这里插入图片描述](Imag/31246789228a497ca049b90bdd191781tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
 
 ```
            图4-1 系统功能模块组件图
 ```
 
-![在这里插入图片描述](Imag/79ac5bf5f54a4ec9b3e2a635d4a9ae7b~tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
+![在这里插入图片描述](Imag/79ac5bf5f54a4ec9b3e2a635d4a9ae7btplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
 
 4.2 系统部署图
- ![在这里插入图片描述](Imag/b7ffaa71b60643c48d49dc5e7989cd2f~tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
+ ![在这里插入图片描述](Imag/b7ffaa71b60643c48d49dc5e7989cd2ftplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
 
 ```
               图4-2 系统部署图
